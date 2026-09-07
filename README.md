@@ -1,28 +1,29 @@
-# Python Exercises
+# Python Basics
 
 <img src="python.png" alt="Python Logo" height="200">
 
-This repository is a **lightweight collection of Python exercises** focused on practicing common programming problems and problem-solving techniques.
+This repository is a **collection of basic Python code examples and exercises** covering fundamental Python programming concepts, practical demonstrations, and small problem-solving tasks.
 
-The exercises are based on **famous and practical problems that can be solved with Python**, while generally avoiding problems that primarily focus on Data Structures and Algorithms.
+It includes simple code written to demonstrate Python features, examples using **external libraries**, individual programming exercises, and selected **Jupyter Notebooks** that combine explanations, code, and outputs.
 
 ## Contents
 
-The repository covers exercises involving:
+The repository covers:
 
-* Common Python programming problems
-* Mathematical and numerical problems
-* String and text manipulation
-* Lists, dictionaries, sets, and other Python data structures
+* Basic Python syntax and programming concepts
+* Python code examples and demonstrations
+* Common programming exercises and practice problems
+* Mathematical and numerical operations
+* Strings, lists, dictionaries, sets, and other built-in data structures
 * File and data processing
-* Logical and practical problem solving
-* Other common programming exercises
-
-The goal is to provide practical exercises that strengthen **Python programming fundamentals and problem-solving skills** without focusing specifically on algorithmic techniques.
+* Python code using external libraries
+* Selected Jupyter Notebooks with code, explanations, and outputs
+* Other small examples for practicing Python fundamentals
 
 ## Notes
 
-* Some exercises are provided as **Python (`.py`) files**.
-* The `.py` exercises are also merged into **Jupyter Notebooks (`.ipynb`)** containing the exercise description, source code, and output.
-* The repository is intentionally lightweight and focuses on **practice through individual exercises** rather than a structured Python course.
-
+* Some examples are provided as **Python (`.py`) files** for direct execution.
+* Some exercises and examples are organized into **Jupyter Notebooks (`.ipynb`)** containing code, explanations, and outputs.
+* The repository is intended as a **lightweight collection of Python basics**, demonstrations, and practice code rather than a structured Python course.
+* More examples, exercises, and library-based code may be added over time.
+  
