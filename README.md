@@ -1,6 +1,6 @@
 # Python Exercises
 
-!(Python Logo)[python.png]
+![Python Logo](python.png)
 
 This repository is a **lightweight collection of Python exercises** focused on practicing common programming problems and problem-solving techniques.
 
